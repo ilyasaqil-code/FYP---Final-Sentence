@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RoomCellAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 57d18529e36d0704a8c3fd7897f33509, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6159f060103ca9a478c0457cbb1ab492, type: 3}
+  - {fileID: 21300000, guid: 301ab4e337a68e24d8f398ee3cd57f46, type: 3}
+  - {fileID: 21300000, guid: cae2ab047ae909a40986af2086113096, type: 3}
+  - {fileID: 21300000, guid: f3c05fb4bd2cf6949815eb6d3fd8280d, type: 3}
+  - {fileID: 21300000, guid: 38f5bee70c676284fb0a49e87dddb7e4, type: 3}
+  - {fileID: 21300000, guid: f18ff9b8fe5d5394db351bd5bed1709d, type: 3}
+  - {fileID: 21300000, guid: 8a33746ff82ebc54f91b60383a468c3a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CellBlockout (2)
+  - cell blockout
+  - cigg placeholder
+  - IMG_3032
+  - CellBlockout with props
+  - CellBlockout (2) 1
+  - IMG_3033
+  m_RenderDataMap: {}
+  m_Tag: RoomCellAtlas
+  m_IsVariant: 0

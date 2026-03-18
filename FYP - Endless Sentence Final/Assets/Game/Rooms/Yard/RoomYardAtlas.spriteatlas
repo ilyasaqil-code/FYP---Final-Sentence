@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RoomYardAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 54db36e8c025956498d05bfb9aa53618, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8cae1c64c8680c24db46b03bb6ffd1ab, type: 3}
+  - {fileID: 21300000, guid: 6b4af34888107fd4985ead0a1a8f8180, type: 3}
+  - {fileID: 21300000, guid: 70868a9c0368a2d49a43c05f88d0d5cd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - YardBlockout complete
+  - YardBlockout
+  - tower shadow
+  m_RenderDataMap: {}
+  m_Tag: RoomYardAtlas
+  m_IsVariant: 0

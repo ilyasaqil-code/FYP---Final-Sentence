@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Game/Rooms/Title/SceneRoomTitle.unity
+    guid: ead3603028b9575468e0b9f054b6dc6c
+  - enabled: 1
+    path: Assets/Game/Rooms/Cell/SceneRoomCell.unity
+    guid: 0fb1a7c8ecc8a504a805bd4ee9e6bf6f
+  - enabled: 1
+    path: Assets/Game/Rooms/Yard/SceneRoomYard.unity
+    guid: be9a12c7be8e5dc4a8c90f17e9181656
   m_configObjects: {}
